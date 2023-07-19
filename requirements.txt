@@ -1,0 +1,5 @@
+watchdog>=2.1.0
+rawpy>=0.16.0
+numpy>=1.21.0
+astropy>=4.3.0
+scipy>=1.7.0
